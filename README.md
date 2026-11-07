@@ -14,8 +14,8 @@ This repo contains a test plan, which explains what I tested and how, along with
 
 ## Contents
 
-- `test-plan.pdf`: scope, types of testing, test cases and risk assessment
-- `bug-report.pdf`: the bugs I found, with steps, expected and actual results, and screenshots
+- `test-plan.md`: scope, types of testing, test cases and risk assessment
+- `Saucedemo testing final.pdf`: the bugs I found, with steps, expected and actual results, and screenshots
 
 ## Author
 
